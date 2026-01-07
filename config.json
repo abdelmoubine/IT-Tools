@@ -1,0 +1,10 @@
+{
+  "ai_mode": "hybrid",
+  "allow_telemetry": true,
+  "remote_update_mode": "hybrid",
+  "support_x86": true,
+  "agent_default_enabled": false,
+  "management_server_url": "https://raw.githubusercontent.com/abdelmoubine/IT-Tools/main/resources/",
+    "signed_resource_public_key": "",
+  "auth_token": ""
+}

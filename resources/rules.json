@@ -1,0 +1,1 @@
+{ "rules_version": "1.0", "generated_at": "2026-01-07T00:00:00Z", "rules": [ { "id": "R001", "description": "Detect open RDP (3389) on public hosts", "severity": "medium", "action": "recommend_block" } ] }

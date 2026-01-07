@@ -1,0 +1,6 @@
+/dist
+/dist/*
+*.exe
+*.zip
+/tmp
+/exports

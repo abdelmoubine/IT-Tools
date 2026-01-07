@@ -1,0 +1,28 @@
+{
+  "about": "Developer: John Doe — Lightweight portable IT Support Toolkit. English-only build. Use this tool to perform quick network/system diagnostics, export structured reports, and get AI-based suggestions (if enabled). Edit this file to change About text or donation links.",
+  "linkedin": "https://linkedin.com/in/your-profile",
+  "telegram": "https://t.me/yourhandle",
+  "donations": {
+    "BTC": "YourBTCAddressHere",
+    "TON": "YourTONAddressHere",
+    "USDT": "YourUSDTAddressHere"
+  },
+  "ui": {
+    "app_name": "IT Support Toolkit",
+    "home_title": "Home",
+    "about_title": "About the Developer",
+    "tools_title": "Tools",
+    "export_success": "Export completed"
+  },
+  "tools": [
+    "Quick Scan (Ping Sweep)",
+    "Port Scanner (TCP/UDP)",
+    "Traceroute",
+    "DNS Tools",
+    "WMI Inventory",
+    "Performance Monitor",
+    "SMART Check",
+    "Vulnerability Checker",
+    "AI Assistant"
+  ]
+}
